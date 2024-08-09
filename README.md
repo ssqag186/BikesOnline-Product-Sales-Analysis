@@ -1,5 +1,11 @@
-BikesOnline Product and Sales Analysis 
-This project is a freelance work associated wwith retail bike store in Australia. The project consists of 3 modules- 1. Data Quality Assessment, 2. Data Insights, 3. Data Insights & Presentations. 
-The tasks involved analyzing the customer and transaction data of BikesOnline. The client provided a raw data with 4 large datasets: The first phase involved the task of data cleaning and preprocessing of the given datasets for further analysis. 
-I have used Python for this purpose. The second phase required Data Exploration; Model Development and Interpretation to recommend which of the 1000 new customers from the new customers' list should be targeted to drive the most value for the organization. 
-Here, I have conducted RFM Analysis for customer segmentation and created a PowerPoint presentation for the important information. The third and final module involved creating a Dashboard with data summary and results.
+This freelance project involved working with a retail bike store in Australia and comprised three key modules:
+
+Data Quality Assessment
+Data Insights
+Data Insights & Presentations
+The project centered around analyzing customer and transaction data for BikesOnline. The client provided four large datasets in raw form, which required cleaning and preprocessing as the initial phase. I utilized Python to perform these tasks, ensuring the data was ready for further analysis.
+
+In the second phase, the focus shifted to Data Exploration, Model Development, and Interpretation. The objective was to recommend which 1,000 new customers from a provided list should be targeted to generate the most value for the organization. To achieve this, I conducted an RFM (Recency, Frequency, Monetary) Analysis for customer segmentation and presented key findings through a PowerPoint presentation.
+
+The third and final module involved developing a Dashboard to summarize the data and present the results.
+
